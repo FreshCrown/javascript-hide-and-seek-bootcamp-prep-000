@@ -7,7 +7,11 @@ function nestedTarget(){
 }
 
 function increaseRankBy(n){
-  return document.querySelector(".ranked-list") ;
+  
+  for (var i = 0; i < 0; i++;){
+    
+  }
+
 }
 
 function deepestChild(){
